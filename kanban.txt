@@ -1,0 +1,8 @@
+Tarefas Pendentes:
+1. Tarefa 2 (Pendente) - Responsável: Responsável 2 - Prioridade: Média
+2. Tarefa 3 (Pendente) - Responsável: Responsável 3 - Prioridade: Baixa
+
+Tarefas em Andamento:
+1. Tarefa 1 (Em Andamento) - Responsável: Responsável 1 - Prioridade: Alta
+
+Tarefas Concluídas:
