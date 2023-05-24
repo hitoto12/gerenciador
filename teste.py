@@ -25,3 +25,5 @@ class Teste:
     gerenciador.listar_tarefas_por_etapa("Pendente")
     gerenciador.listar_tarefas_por_etapa("Em Andamento")
     gerenciador.listar_tarefas_por_etapa("Concluída")
+
+# dandan é dogs 
